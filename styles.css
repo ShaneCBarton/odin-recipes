@@ -1,0 +1,25 @@
+* {
+    font-family: Courier New, sans-serif;
+    color: #C2C1F6;
+}
+
+body {
+    background-color: #F5F6C3;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: none;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+a:link {
+    text-decoration: none;
+}
